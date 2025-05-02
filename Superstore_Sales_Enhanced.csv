@@ -1,0 +1,501 @@
+Order Date,Region,State,Category,Segment,Sales,Profit,Quantity,Discount,Shipping Mode
+2022-12-13,East,Florida,Technology,Home Office,925.78,66.97,3,0.2,First Class
+2023-08-29,South,Florida,Office Supplies,Home Office,353.11,86.03,5,0.07,First Class
+2022-04-03,West,New York,Office Supplies,Corporate,152.74,26.84,3,0.06,Second Class
+2023-02-19,South,California,Office Supplies,Home Office,135.01,36.89,2,0.16,Same Day
+2022-05-10,East,California,Furniture,Home Office,54.11,12.0,2,0.01,Second Class
+2023-02-19,South,California,Furniture,Home Office,80.93,22.12,9,0.25,Second Class
+2023-12-05,Central,New York,Office Supplies,Consumer,677.1,108.9,5,0.1,Second Class
+2022-01-20,East,California,Furniture,Consumer,963.3,153.42,10,0.09,Second Class
+2023-03-27,South,Illinois,Furniture,Home Office,875.19,111.96,7,0.3,Second Class
+2022-05-21,Central,Florida,Office Supplies,Corporate,514.64,40.8,8,0.24,Same Day
+2023-05-05,Central,Texas,Office Supplies,Consumer,204.67,42.73,4,0.17,Same Day
+2023-07-03,East,Washington,Technology,Consumer,466.85,111.91,8,0.08,Standard Class
+2023-05-16,West,Georgia,Office Supplies,Consumer,967.88,316.39,10,0.18,Second Class
+2023-05-09,West,Texas,Technology,Corporate,183.52,47.17,2,0.18,First Class
+2023-05-13,West,Florida,Technology,Corporate,150.9,8.84,2,0.02,Same Day
+2022-11-09,West,New York,Office Supplies,Home Office,728.82,170.14,4,0.04,Same Day
+2022-04-08,Central,Illinois,Technology,Home Office,79.9,9.88,3,0.01,First Class
+2022-12-31,West,Ohio,Office Supplies,Consumer,516.37,27.69,2,0.2,Second Class
+2022-01-30,West,New York,Office Supplies,Home Office,311.98,81.22,5,0.1,Second Class
+2022-11-28,East,Washington,Furniture,Home Office,552.53,52.05,7,0.17,Same Day
+2023-01-01,Central,Illinois,Technology,Consumer,537.05,185.21,6,0.23,Same Day
+2022-12-01,South,Washington,Technology,Home Office,437.39,106.44,6,0.02,Second Class
+2023-07-10,West,Florida,Furniture,Corporate,956.35,204.69,2,0.27,First Class
+2023-03-04,Central,Florida,Office Supplies,Home Office,545.04,168.27,1,0.24,Same Day
+2022-05-26,East,Georgia,Office Supplies,Home Office,771.67,218.76,6,0.29,Standard Class
+2023-11-17,East,Texas,Furniture,Home Office,163.17,33.91,6,0.04,Standard Class
+2022-07-26,Central,Washington,Furniture,Home Office,685.83,190.87,9,0.05,Second Class
+2023-01-31,South,California,Technology,Consumer,540.25,67.78,9,0.23,Second Class
+2023-08-05,West,Ohio,Technology,Home Office,823.77,216.95,2,0.27,Second Class
+2022-03-21,East,Illinois,Office Supplies,Corporate,728.76,170.83,3,0.01,Same Day
+2023-07-29,West,California,Furniture,Corporate,345.74,81.93,3,0.01,First Class
+2022-12-02,East,Georgia,Office Supplies,Consumer,802.51,199.42,8,0.27,First Class
+2022-01-03,East,Washington,Furniture,Consumer,844.78,72.3,4,0.26,Standard Class
+2023-09-01,Central,Illinois,Office Supplies,Home Office,244.56,25.48,2,0.19,Standard Class
+2022-07-23,Central,Ohio,Office Supplies,Consumer,135.03,31.33,6,0.15,Standard Class
+2022-01-27,Central,Texas,Furniture,Consumer,704.57,220.91,9,0.26,Same Day
+2023-08-23,East,Texas,Office Supplies,Corporate,377.98,24.4,2,0.1,Same Day
+2022-09-11,Central,Georgia,Office Supplies,Consumer,332.26,53.06,9,0.04,Standard Class
+2023-08-27,South,Georgia,Technology,Corporate,863.09,292.1,6,0.18,Standard Class
+2022-09-24,East,Georgia,Office Supplies,Corporate,625.14,216.9,4,0.03,Standard Class
+2022-09-20,East,Washington,Office Supplies,Corporate,925.43,319.47,9,0.1,Second Class
+2023-11-01,East,Ohio,Furniture,Corporate,599.31,129.44,8,0.1,Second Class
+2022-07-22,West,New York,Furniture,Corporate,515.25,93.66,1,0.19,First Class
+2022-01-17,East,Ohio,Office Supplies,Consumer,298.7,60.92,2,0.18,First Class
+2023-06-09,East,Washington,Office Supplies,Corporate,496.83,33.55,1,0.11,First Class
+2023-12-08,South,Texas,Furniture,Home Office,858.1,254.95,5,0.16,Standard Class
+2023-09-11,East,Georgia,Office Supplies,Corporate,823.56,159.42,4,0.12,Same Day
+2023-05-24,Central,Florida,Furniture,Home Office,635.88,65.28,8,0.09,Standard Class
+2022-12-20,Central,Illinois,Furniture,Corporate,395.88,98.85,4,0.1,Second Class
+2023-06-04,South,Georgia,Office Supplies,Home Office,461.56,62.81,3,0.1,Second Class
+2022-08-27,West,Washington,Furniture,Corporate,129.67,9.78,10,0.07,Standard Class
+2023-09-12,West,New York,Office Supplies,Home Office,754.24,186.54,6,0.29,First Class
+2023-05-26,West,Illinois,Technology,Corporate,857.87,68.11,2,0.2,First Class
+2023-03-19,Central,California,Furniture,Home Office,788.27,52.33,5,0.0,First Class
+2022-01-08,West,Washington,Furniture,Corporate,406.24,57.05,9,0.07,Same Day
+2023-03-13,East,Georgia,Furniture,Home Office,554.94,148.98,3,0.26,Standard Class
+2022-11-24,West,California,Office Supplies,Home Office,868.54,69.87,8,0.11,Same Day
+2022-03-28,East,New York,Furniture,Home Office,118.96,13.73,2,0.07,First Class
+2023-11-20,East,Washington,Technology,Home Office,252.89,24.34,6,0.01,First Class
+2023-12-06,Central,Ohio,Furniture,Consumer,563.07,98.46,9,0.02,Standard Class
+2022-12-09,East,Illinois,Furniture,Corporate,569.77,75.58,6,0.19,Second Class
+2022-03-04,West,Texas,Office Supplies,Home Office,128.83,13.54,9,0.12,First Class
+2022-04-16,West,Illinois,Furniture,Corporate,422.48,138.87,5,0.04,Same Day
+2023-11-22,South,Washington,Technology,Consumer,437.51,33.09,5,0.14,First Class
+2022-01-30,East,Florida,Furniture,Corporate,305.14,74.6,10,0.22,Same Day
+2022-01-30,East,Ohio,Furniture,Consumer,54.58,13.66,1,0.29,First Class
+2023-09-20,South,Washington,Technology,Consumer,791.93,96.17,9,0.29,First Class
+2022-01-27,South,Washington,Technology,Home Office,488.32,134.16,5,0.02,Standard Class
+2022-03-30,Central,Georgia,Furniture,Consumer,281.17,40.32,1,0.12,Standard Class
+2023-08-17,East,Texas,Office Supplies,Home Office,734.97,205.44,1,0.23,Standard Class
+2022-12-26,East,Ohio,Furniture,Home Office,435.41,95.45,8,0.09,Standard Class
+2023-06-30,West,Ohio,Technology,Consumer,857.44,233.69,4,0.26,Second Class
+2022-05-24,East,Georgia,Technology,Home Office,531.21,147.76,2,0.14,Standard Class
+2022-10-13,South,Washington,Office Supplies,Corporate,926.72,121.95,6,0.13,First Class
+2022-05-29,East,California,Technology,Corporate,75.1,23.28,5,0.17,Same Day
+2022-05-03,West,Florida,Furniture,Corporate,683.8,147.27,10,0.03,First Class
+2022-08-09,West,Ohio,Furniture,Corporate,821.95,145.17,4,0.16,Standard Class
+2022-08-01,East,Georgia,Office Supplies,Consumer,605.45,91.54,4,0.07,Second Class
+2022-08-22,Central,Georgia,Technology,Consumer,786.12,172.53,6,0.09,First Class
+2023-08-16,Central,Washington,Technology,Home Office,200.94,33.94,5,0.14,Second Class
+2022-05-27,South,Illinois,Office Supplies,Consumer,533.66,29.56,5,0.3,First Class
+2022-12-26,Central,Georgia,Office Supplies,Home Office,769.31,193.95,6,0.17,Standard Class
+2023-02-28,Central,New York,Office Supplies,Home Office,459.18,122.83,2,0.12,First Class
+2023-02-08,West,Texas,Technology,Corporate,894.48,160.71,9,0.17,Standard Class
+2023-12-09,Central,Florida,Technology,Consumer,611.33,68.72,2,0.26,First Class
+2023-08-13,Central,Florida,Technology,Corporate,400.31,111.41,8,0.2,Same Day
+2023-08-31,East,Georgia,Furniture,Home Office,872.55,69.58,8,0.16,Standard Class
+2022-08-10,East,Georgia,Furniture,Consumer,871.16,189.58,3,0.05,Second Class
+2022-11-28,Central,Florida,Office Supplies,Consumer,872.59,280.54,10,0.15,Standard Class
+2023-10-09,South,Washington,Furniture,Corporate,858.89,81.2,9,0.03,Same Day
+2022-06-18,West,New York,Office Supplies,Home Office,992.98,166.67,5,0.23,Same Day
+2023-06-29,South,California,Office Supplies,Consumer,682.27,83.51,10,0.26,Same Day
+2022-01-28,Central,California,Office Supplies,Corporate,638.65,48.13,9,0.03,Same Day
+2023-03-15,South,Washington,Office Supplies,Corporate,814.7,95.22,9,0.29,Same Day
+2022-01-11,East,Georgia,Technology,Consumer,652.49,50.69,1,0.17,Same Day
+2023-04-15,East,New York,Office Supplies,Corporate,385.85,109.0,9,0.24,Standard Class
+2023-12-31,South,Georgia,Technology,Corporate,433.76,137.82,6,0.26,Second Class
+2023-12-06,East,New York,Technology,Consumer,636.46,130.61,4,0.1,Same Day
+2023-08-29,Central,New York,Technology,Corporate,372.72,66.52,9,0.27,Standard Class
+2022-08-25,Central,New York,Technology,Home Office,843.93,279.14,10,0.21,Same Day
+2023-02-28,South,Georgia,Office Supplies,Consumer,455.56,105.5,10,0.29,Second Class
+2023-11-17,East,Ohio,Office Supplies,Corporate,460.27,44.38,6,0.21,Standard Class
+2022-02-28,Central,Florida,Technology,Corporate,203.25,24.72,6,0.18,First Class
+2023-12-05,East,California,Furniture,Home Office,812.46,146.99,9,0.14,Second Class
+2022-01-04,South,Georgia,Furniture,Consumer,231.78,61.14,10,0.03,Standard Class
+2023-07-24,Central,Ohio,Furniture,Consumer,543.3,60.27,4,0.24,Standard Class
+2022-02-01,East,California,Furniture,Home Office,964.12,325.75,6,0.09,Same Day
+2023-05-16,Central,California,Technology,Corporate,250.48,78.42,5,0.06,Standard Class
+2023-04-10,South,Washington,Furniture,Consumer,406.82,24.45,2,0.28,Same Day
+2023-03-11,East,Texas,Technology,Home Office,148.05,17.36,5,0.02,Standard Class
+2023-06-11,South,Illinois,Furniture,Corporate,438.94,85.44,1,0.1,First Class
+2023-09-11,West,Georgia,Office Supplies,Consumer,194.04,47.98,3,0.21,Standard Class
+2022-06-21,South,New York,Technology,Consumer,781.71,262.6,6,0.03,Second Class
+2023-02-15,West,Georgia,Office Supplies,Corporate,885.64,217.5,1,0.15,Standard Class
+2022-02-17,West,Georgia,Technology,Home Office,267.05,58.62,3,0.08,Same Day
+2022-10-30,South,Texas,Furniture,Corporate,532.08,56.76,2,0.15,First Class
+2022-02-11,East,Texas,Technology,Corporate,648.23,47.65,10,0.29,Second Class
+2023-10-11,West,New York,Furniture,Corporate,183.93,49.64,1,0.11,Same Day
+2022-11-15,East,Texas,Furniture,Home Office,407.95,106.01,6,0.2,First Class
+2022-09-03,South,California,Furniture,Home Office,716.12,191.99,6,0.03,Same Day
+2023-02-09,West,Ohio,Office Supplies,Home Office,639.35,104.44,1,0.16,Second Class
+2023-07-29,Central,New York,Office Supplies,Home Office,947.13,234.43,9,0.27,First Class
+2023-05-15,Central,New York,Office Supplies,Home Office,905.08,257.34,9,0.27,First Class
+2022-03-02,East,California,Technology,Home Office,502.34,167.73,5,0.21,First Class
+2022-07-16,Central,Florida,Technology,Home Office,967.0,297.8,8,0.16,Standard Class
+2022-11-23,East,Florida,Technology,Home Office,676.31,61.92,8,0.26,Second Class
+2022-07-17,West,Illinois,Furniture,Consumer,550.51,93.62,4,0.19,Same Day
+2023-09-28,Central,Texas,Office Supplies,Corporate,182.91,12.14,9,0.13,Second Class
+2023-04-26,West,Washington,Furniture,Consumer,119.21,11.41,10,0.01,First Class
+2022-04-16,West,Texas,Furniture,Corporate,825.12,251.18,7,0.12,Standard Class
+2023-09-17,South,Texas,Furniture,Corporate,304.89,46.38,10,0.11,First Class
+2022-10-28,East,New York,Office Supplies,Home Office,321.08,21.51,7,0.15,First Class
+2023-01-21,South,Georgia,Furniture,Consumer,171.33,52.33,10,0.07,First Class
+2022-04-23,South,Texas,Furniture,Corporate,511.61,68.76,8,0.24,Second Class
+2023-09-27,South,New York,Furniture,Home Office,522.23,124.5,10,0.09,Standard Class
+2022-05-07,Central,New York,Furniture,Home Office,528.69,31.55,6,0.01,Same Day
+2022-06-28,East,Ohio,Furniture,Home Office,729.82,142.76,10,0.18,Standard Class
+2023-03-16,West,New York,Technology,Corporate,903.52,191.7,1,0.08,Standard Class
+2023-10-16,East,California,Office Supplies,Home Office,988.15,76.13,3,0.26,First Class
+2023-07-16,West,Illinois,Technology,Corporate,217.83,29.7,9,0.05,First Class
+2022-03-22,East,Washington,Furniture,Home Office,739.21,163.45,1,0.02,Standard Class
+2022-04-27,East,Texas,Technology,Home Office,818.93,150.48,2,0.04,Second Class
+2023-05-24,South,Texas,Technology,Consumer,256.49,64.51,5,0.12,Second Class
+2023-05-23,East,Illinois,Furniture,Consumer,957.39,135.43,1,0.05,Same Day
+2023-12-25,Central,Florida,Office Supplies,Consumer,532.22,134.38,9,0.02,Same Day
+2023-12-12,South,New York,Furniture,Corporate,281.0,84.16,6,0.14,First Class
+2022-08-20,Central,Washington,Furniture,Corporate,920.15,55.21,6,0.04,Standard Class
+2022-10-01,South,Ohio,Technology,Consumer,886.59,126.27,8,0.18,Same Day
+2023-11-07,South,California,Office Supplies,Consumer,484.68,95.74,6,0.14,Same Day
+2022-08-09,South,Illinois,Office Supplies,Home Office,786.4,162.2,3,0.26,Same Day
+2022-08-15,Central,Georgia,Furniture,Corporate,86.25,15.35,8,0.1,First Class
+2022-08-09,West,Washington,Furniture,Consumer,623.95,52.49,4,0.14,First Class
+2023-05-01,South,Georgia,Office Supplies,Home Office,164.21,41.0,9,0.21,Standard Class
+2023-12-03,Central,Washington,Technology,Consumer,242.73,19.9,8,0.25,Same Day
+2023-02-13,Central,Washington,Technology,Consumer,912.2,269.26,3,0.13,Second Class
+2023-11-03,South,Georgia,Technology,Corporate,721.45,150.8,5,0.04,First Class
+2022-11-09,West,Texas,Furniture,Consumer,96.73,12.15,8,0.01,Same Day
+2022-09-14,East,Texas,Office Supplies,Corporate,511.77,135.58,8,0.12,Second Class
+2022-08-04,East,Georgia,Office Supplies,Corporate,367.91,20.46,10,0.05,Standard Class
+2023-01-17,Central,Georgia,Furniture,Corporate,762.97,226.57,9,0.23,Same Day
+2022-03-09,Central,Washington,Furniture,Home Office,854.1,146.2,8,0.27,Standard Class
+2023-11-20,East,Georgia,Technology,Home Office,768.7,189.54,6,0.14,Standard Class
+2023-01-16,West,California,Office Supplies,Consumer,544.11,141.51,9,0.06,Same Day
+2023-11-06,West,Florida,Technology,Corporate,696.98,114.34,4,0.24,Same Day
+2023-05-30,West,Washington,Technology,Home Office,722.93,76.35,6,0.16,First Class
+2022-01-09,West,California,Technology,Consumer,430.0,72.45,5,0.15,Same Day
+2023-12-21,Central,California,Furniture,Corporate,472.54,42.87,7,0.23,Second Class
+2023-08-18,East,Ohio,Furniture,Home Office,322.95,49.74,8,0.23,Second Class
+2023-12-09,West,New York,Furniture,Corporate,52.66,8.75,9,0.02,First Class
+2022-02-14,Central,Washington,Office Supplies,Home Office,528.65,157.46,6,0.11,Second Class
+2022-07-29,West,Washington,Office Supplies,Consumer,629.18,100.66,8,0.0,Standard Class
+2022-12-03,South,Texas,Office Supplies,Consumer,116.21,30.81,5,0.18,First Class
+2022-05-03,East,New York,Furniture,Corporate,434.85,63.64,8,0.14,Same Day
+2023-08-04,West,Texas,Technology,Corporate,347.51,44.71,8,0.27,Standard Class
+2022-03-10,South,Florida,Office Supplies,Home Office,239.82,74.85,6,0.29,Same Day
+2022-03-26,Central,New York,Office Supplies,Consumer,105.07,12.13,4,0.25,Same Day
+2022-08-23,South,California,Furniture,Corporate,102.73,12.68,8,0.06,Same Day
+2022-08-14,South,Georgia,Technology,Consumer,516.31,153.47,5,0.09,Second Class
+2023-02-01,West,Georgia,Office Supplies,Corporate,70.6,20.39,2,0.23,Same Day
+2022-06-26,West,Texas,Furniture,Corporate,689.6,74.38,8,0.14,Standard Class
+2022-08-31,South,Illinois,Technology,Corporate,220.02,24.04,6,0.05,Standard Class
+2023-09-02,Central,Florida,Technology,Home Office,769.57,123.79,6,0.01,First Class
+2023-06-08,Central,Illinois,Furniture,Corporate,298.14,55.95,3,0.27,Standard Class
+2023-09-13,South,Ohio,Technology,Consumer,776.42,123.53,3,0.23,Standard Class
+2022-10-09,South,Florida,Technology,Corporate,287.07,73.06,5,0.29,Standard Class
+2022-10-16,South,Washington,Technology,Corporate,868.57,243.57,1,0.22,First Class
+2023-02-09,East,Georgia,Technology,Corporate,909.56,274.19,3,0.01,Same Day
+2022-10-24,West,Texas,Office Supplies,Home Office,246.76,61.0,7,0.25,Standard Class
+2022-01-31,East,Texas,Office Supplies,Consumer,728.15,161.24,4,0.09,Standard Class
+2023-06-05,East,Washington,Furniture,Consumer,684.54,43.72,2,0.03,Standard Class
+2022-12-28,Central,Ohio,Furniture,Home Office,613.46,74.22,10,0.11,Same Day
+2023-11-24,East,Washington,Office Supplies,Home Office,378.87,87.55,9,0.02,First Class
+2023-11-25,East,Georgia,Furniture,Consumer,552.52,91.39,5,0.13,Same Day
+2023-03-02,Central,Georgia,Office Supplies,Consumer,282.09,58.7,9,0.11,First Class
+2023-11-12,Central,Georgia,Furniture,Corporate,589.68,58.7,6,0.08,Same Day
+2022-11-27,West,Ohio,Office Supplies,Consumer,456.38,143.44,5,0.0,First Class
+2022-01-13,West,Ohio,Technology,Home Office,440.31,39.51,5,0.29,Second Class
+2023-10-30,South,Florida,Office Supplies,Corporate,61.91,14.63,6,0.12,Second Class
+2023-05-24,West,Washington,Office Supplies,Consumer,154.77,51.63,5,0.28,Same Day
+2023-02-04,Central,Ohio,Technology,Consumer,299.61,98.9,4,0.04,Same Day
+2023-12-16,Central,Texas,Furniture,Home Office,949.59,296.25,1,0.0,Standard Class
+2022-10-17,West,Washington,Office Supplies,Corporate,513.02,73.73,3,0.1,Same Day
+2022-11-23,West,Illinois,Office Supplies,Corporate,310.24,78.37,10,0.21,Same Day
+2023-02-27,West,Ohio,Furniture,Consumer,641.76,134.12,7,0.24,Second Class
+2023-05-21,South,Washington,Technology,Home Office,699.6,207.12,8,0.16,Same Day
+2022-09-11,South,Texas,Furniture,Corporate,338.19,67.96,3,0.02,Standard Class
+2022-01-12,Central,Illinois,Furniture,Home Office,959.3,193.43,9,0.05,Same Day
+2022-12-11,West,Florida,Furniture,Home Office,166.37,40.16,6,0.21,Standard Class
+2022-05-04,South,Florida,Office Supplies,Home Office,830.44,81.36,8,0.19,Second Class
+2023-04-22,East,Washington,Furniture,Corporate,272.9,76.3,8,0.21,Same Day
+2022-04-13,Central,Texas,Technology,Consumer,819.66,263.73,4,0.11,Same Day
+2023-04-26,Central,Ohio,Office Supplies,Consumer,226.9,17.02,5,0.24,Second Class
+2023-12-04,South,Ohio,Technology,Consumer,102.86,31.41,8,0.27,Same Day
+2022-06-03,South,California,Furniture,Consumer,56.51,9.78,5,0.11,Same Day
+2023-02-13,Central,California,Office Supplies,Consumer,765.18,122.01,9,0.11,First Class
+2023-11-11,East,Ohio,Furniture,Corporate,835.58,265.61,8,0.02,Same Day
+2022-11-17,Central,Georgia,Technology,Consumer,368.44,23.25,7,0.08,Second Class
+2023-06-17,Central,Texas,Office Supplies,Consumer,97.24,16.34,7,0.21,Second Class
+2023-04-29,Central,Washington,Furniture,Consumer,693.79,193.37,9,0.29,Same Day
+2022-09-23,South,Washington,Furniture,Corporate,80.57,26.0,7,0.09,Standard Class
+2023-06-26,Central,New York,Office Supplies,Corporate,362.62,89.4,6,0.2,Same Day
+2022-12-20,West,Ohio,Technology,Consumer,739.27,70.25,3,0.26,Same Day
+2022-05-26,South,Illinois,Furniture,Consumer,659.45,206.11,2,0.07,Standard Class
+2022-09-19,West,Washington,Furniture,Consumer,864.05,91.44,7,0.03,First Class
+2023-09-21,Central,Texas,Technology,Home Office,618.81,129.76,5,0.03,Second Class
+2022-11-23,East,Illinois,Furniture,Consumer,794.24,174.48,6,0.28,First Class
+2023-11-28,East,California,Technology,Home Office,391.65,92.21,7,0.04,Same Day
+2023-09-12,East,Washington,Furniture,Home Office,761.69,165.66,6,0.23,First Class
+2023-10-02,Central,Georgia,Office Supplies,Home Office,929.58,273.8,10,0.24,First Class
+2022-01-17,Central,Texas,Furniture,Corporate,618.71,65.32,4,0.23,Same Day
+2022-07-08,South,Ohio,Office Supplies,Home Office,576.59,86.82,7,0.28,Second Class
+2023-05-02,Central,Texas,Furniture,Consumer,111.06,37.28,7,0.06,Standard Class
+2023-09-28,East,Florida,Office Supplies,Home Office,662.53,199.52,10,0.1,Standard Class
+2022-10-08,Central,Washington,Furniture,Consumer,633.76,139.55,10,0.03,Second Class
+2023-08-07,South,Florida,Technology,Corporate,720.77,163.24,8,0.19,Second Class
+2023-02-05,South,Texas,Technology,Consumer,715.43,213.81,4,0.27,Standard Class
+2023-03-17,East,Georgia,Office Supplies,Home Office,386.42,22.49,3,0.13,Second Class
+2023-08-08,South,Illinois,Technology,Consumer,478.83,72.57,4,0.14,First Class
+2022-12-15,West,Washington,Furniture,Home Office,910.28,99.35,5,0.19,Standard Class
+2023-12-16,South,Ohio,Office Supplies,Home Office,72.72,21.87,8,0.02,Same Day
+2022-03-11,West,Illinois,Furniture,Home Office,496.52,49.22,6,0.02,Second Class
+2022-10-02,West,Ohio,Furniture,Home Office,138.61,10.42,4,0.17,Second Class
+2022-05-20,West,Texas,Technology,Corporate,596.98,154.39,7,0.2,Second Class
+2023-04-15,Central,Illinois,Technology,Home Office,596.27,102.85,4,0.03,Standard Class
+2023-06-30,South,California,Furniture,Home Office,543.95,183.82,7,0.07,Second Class
+2022-08-17,Central,Illinois,Furniture,Corporate,852.31,84.85,8,0.2,Second Class
+2023-05-03,West,Florida,Technology,Consumer,551.24,96.04,7,0.23,Standard Class
+2022-01-20,Central,Texas,Furniture,Consumer,440.5,66.46,8,0.22,Second Class
+2023-08-12,West,Texas,Office Supplies,Corporate,534.76,161.41,2,0.0,Same Day
+2023-05-22,West,Ohio,Technology,Home Office,732.06,249.7,3,0.09,Standard Class
+2023-11-10,East,Texas,Office Supplies,Consumer,479.8,44.96,2,0.01,First Class
+2022-09-25,Central,New York,Office Supplies,Consumer,484.57,95.74,9,0.28,Standard Class
+2022-03-05,West,Illinois,Furniture,Home Office,758.03,90.24,4,0.01,Standard Class
+2022-11-16,Central,Washington,Furniture,Corporate,415.67,92.78,2,0.25,First Class
+2023-05-14,East,Washington,Office Supplies,Home Office,706.14,158.45,1,0.27,Standard Class
+2023-02-27,Central,California,Technology,Consumer,576.35,64.13,5,0.16,First Class
+2022-05-10,South,California,Technology,Consumer,405.29,97.65,10,0.15,Standard Class
+2023-05-24,Central,Georgia,Technology,Consumer,807.62,199.98,10,0.09,Second Class
+2023-02-04,South,Illinois,Furniture,Consumer,413.42,107.04,9,0.11,Standard Class
+2023-02-13,West,California,Furniture,Consumer,492.53,140.42,4,0.06,Same Day
+2023-09-09,East,Texas,Technology,Consumer,660.81,54.57,10,0.13,Same Day
+2022-08-09,East,New York,Furniture,Corporate,164.33,13.21,2,0.07,First Class
+2022-03-16,East,Georgia,Furniture,Consumer,384.2,72.01,4,0.16,Standard Class
+2023-08-09,West,Washington,Office Supplies,Corporate,964.08,68.92,9,0.25,Standard Class
+2023-11-01,East,Ohio,Furniture,Home Office,801.14,54.06,4,0.15,Second Class
+2022-02-23,East,California,Furniture,Consumer,835.96,192.75,2,0.09,First Class
+2022-11-02,South,Texas,Office Supplies,Consumer,573.53,148.45,5,0.18,Standard Class
+2023-07-17,West,Ohio,Furniture,Consumer,595.16,45.59,5,0.21,Standard Class
+2023-12-07,East,Texas,Technology,Corporate,775.14,155.9,7,0.26,Second Class
+2023-12-15,East,Georgia,Technology,Consumer,966.65,237.4,7,0.22,Same Day
+2022-08-27,West,California,Technology,Corporate,270.65,50.29,10,0.04,Standard Class
+2022-11-13,West,Ohio,Office Supplies,Consumer,688.82,137.72,1,0.3,Standard Class
+2023-04-05,Central,New York,Office Supplies,Home Office,210.21,40.63,6,0.0,Same Day
+2022-11-19,South,Washington,Office Supplies,Home Office,687.11,175.47,5,0.25,Second Class
+2022-01-27,South,Texas,Technology,Consumer,694.08,49.34,5,0.11,Standard Class
+2023-07-15,Central,California,Office Supplies,Consumer,497.82,59.62,9,0.28,Standard Class
+2022-01-03,East,Illinois,Technology,Corporate,457.73,29.45,1,0.18,Second Class
+2022-05-24,East,Ohio,Technology,Consumer,343.94,46.11,7,0.28,Standard Class
+2022-08-08,Central,New York,Office Supplies,Corporate,574.16,108.66,1,0.24,Same Day
+2022-01-10,South,Florida,Furniture,Corporate,343.11,80.28,8,0.04,Second Class
+2022-04-28,South,Florida,Furniture,Corporate,677.82,224.26,5,0.12,Same Day
+2022-07-03,South,Texas,Technology,Consumer,470.74,76.4,6,0.22,First Class
+2023-11-28,East,Illinois,Furniture,Corporate,691.04,49.78,10,0.11,Second Class
+2022-05-25,West,California,Technology,Consumer,479.42,36.46,4,0.24,Same Day
+2023-02-07,West,Washington,Technology,Home Office,237.61,26.29,7,0.09,Same Day
+2022-02-08,South,New York,Technology,Corporate,417.55,67.43,3,0.25,Standard Class
+2023-02-17,West,Washington,Office Supplies,Consumer,612.83,36.97,3,0.03,Standard Class
+2022-01-06,East,Ohio,Office Supplies,Corporate,813.69,226.73,3,0.08,First Class
+2023-10-22,Central,Georgia,Furniture,Consumer,798.26,261.95,10,0.17,First Class
+2022-04-11,Central,Georgia,Furniture,Corporate,355.26,113.63,5,0.09,Same Day
+2022-11-05,Central,Illinois,Office Supplies,Home Office,818.39,268.1,8,0.26,Second Class
+2023-10-23,East,Illinois,Technology,Home Office,179.67,59.32,5,0.09,Same Day
+2022-10-22,South,Washington,Furniture,Corporate,526.35,133.61,3,0.04,First Class
+2023-03-15,South,Georgia,Technology,Corporate,430.75,57.68,9,0.01,Standard Class
+2023-06-24,South,New York,Technology,Consumer,919.03,311.43,10,0.06,Same Day
+2023-07-15,West,Washington,Office Supplies,Corporate,272.76,58.71,9,0.09,Standard Class
+2022-04-30,East,Ohio,Technology,Corporate,509.67,156.34,6,0.14,Same Day
+2022-10-25,South,Georgia,Office Supplies,Consumer,950.61,161.91,1,0.16,First Class
+2022-10-26,West,Florida,Furniture,Consumer,83.76,23.78,4,0.29,Standard Class
+2023-05-09,South,California,Furniture,Corporate,607.01,81.19,6,0.23,First Class
+2022-08-12,East,Illinois,Furniture,Corporate,750.9,101.22,1,0.21,Second Class
+2023-07-29,South,New York,Technology,Consumer,309.56,48.75,6,0.22,Standard Class
+2023-10-25,West,Florida,Office Supplies,Corporate,465.2,89.23,8,0.27,Same Day
+2022-09-26,South,Illinois,Furniture,Home Office,128.96,15.37,9,0.0,Same Day
+2023-03-05,Central,Washington,Furniture,Consumer,965.74,299.16,5,0.25,Second Class
+2022-08-02,South,New York,Office Supplies,Home Office,79.4,26.61,3,0.07,Second Class
+2022-12-15,South,Illinois,Technology,Consumer,305.95,50.29,8,0.2,First Class
+2023-11-06,Central,Washington,Technology,Home Office,272.93,44.21,5,0.1,Second Class
+2022-07-20,Central,Ohio,Furniture,Corporate,483.71,91.72,8,0.08,First Class
+2022-09-25,South,Illinois,Technology,Corporate,444.29,127.19,9,0.27,Standard Class
+2023-01-28,East,Georgia,Technology,Home Office,203.39,45.93,5,0.12,Standard Class
+2023-06-14,East,California,Office Supplies,Home Office,386.81,26.01,1,0.25,Standard Class
+2023-12-11,South,California,Office Supplies,Corporate,870.12,304.0,1,0.07,First Class
+2022-01-08,South,Washington,Office Supplies,Home Office,883.25,85.88,8,0.1,Second Class
+2022-11-08,West,Washington,Furniture,Home Office,468.68,49.29,3,0.09,Standard Class
+2023-07-11,Central,Georgia,Technology,Consumer,157.64,19.35,3,0.06,First Class
+2022-03-29,West,California,Technology,Consumer,495.03,74.28,4,0.22,First Class
+2023-07-26,West,Texas,Furniture,Consumer,284.24,45.54,9,0.12,Second Class
+2023-05-12,South,Ohio,Technology,Corporate,454.92,101.09,7,0.17,Standard Class
+2023-05-30,Central,California,Technology,Corporate,337.37,108.09,1,0.29,Second Class
+2022-03-07,South,California,Technology,Consumer,443.3,145.35,7,0.27,Standard Class
+2023-11-07,East,Ohio,Office Supplies,Consumer,283.45,47.43,4,0.2,First Class
+2023-11-09,Central,Texas,Furniture,Consumer,669.12,213.53,6,0.2,Same Day
+2023-07-19,Central,Texas,Office Supplies,Corporate,251.11,82.27,10,0.24,Standard Class
+2023-06-28,South,Georgia,Office Supplies,Home Office,740.79,166.99,3,0.15,Same Day
+2022-08-16,South,California,Office Supplies,Consumer,661.45,70.9,9,0.09,Same Day
+2022-01-05,West,Texas,Furniture,Corporate,147.13,16.7,4,0.27,Same Day
+2022-05-23,South,Washington,Office Supplies,Home Office,910.35,202.88,5,0.2,Same Day
+2022-05-01,Central,Washington,Office Supplies,Home Office,992.54,307.02,8,0.16,Standard Class
+2023-01-06,South,Washington,Furniture,Corporate,148.51,34.73,5,0.23,Same Day
+2022-10-04,West,Ohio,Technology,Corporate,284.09,74.1,7,0.16,First Class
+2023-04-09,South,Texas,Furniture,Consumer,835.87,188.75,1,0.1,Second Class
+2022-10-09,West,New York,Furniture,Home Office,655.95,205.62,6,0.02,Second Class
+2022-07-04,Central,Ohio,Technology,Consumer,356.48,62.29,1,0.27,Same Day
+2022-11-09,East,Illinois,Office Supplies,Home Office,977.38,292.85,3,0.05,First Class
+2023-05-09,South,Georgia,Technology,Consumer,571.05,44.98,1,0.19,First Class
+2022-02-01,South,New York,Furniture,Home Office,92.72,6.98,9,0.08,Same Day
+2023-02-24,East,Florida,Technology,Consumer,804.21,246.68,10,0.07,First Class
+2023-11-15,West,California,Technology,Corporate,177.36,38.46,1,0.15,Second Class
+2022-11-16,Central,Ohio,Technology,Consumer,663.49,84.68,7,0.25,First Class
+2022-03-30,South,New York,Office Supplies,Consumer,565.16,147.17,10,0.24,Second Class
+2022-07-03,South,Florida,Office Supplies,Home Office,545.71,190.87,9,0.04,Second Class
+2023-06-11,East,New York,Office Supplies,Consumer,872.03,84.64,2,0.12,First Class
+2022-01-27,South,Washington,Furniture,Home Office,429.97,44.31,1,0.15,Second Class
+2023-12-07,West,California,Furniture,Corporate,375.51,113.59,4,0.3,Standard Class
+2023-05-11,Central,New York,Office Supplies,Home Office,458.06,91.56,2,0.02,Same Day
+2023-11-27,East,New York,Technology,Home Office,964.82,243.61,6,0.09,First Class
+2022-03-11,East,California,Furniture,Corporate,881.56,237.28,2,0.14,First Class
+2022-05-23,Central,New York,Office Supplies,Corporate,334.94,67.66,10,0.24,First Class
+2023-10-23,East,California,Office Supplies,Home Office,504.6,79.76,4,0.14,First Class
+2022-01-13,Central,Texas,Office Supplies,Home Office,579.36,35.56,9,0.09,Same Day
+2022-06-23,Central,New York,Office Supplies,Consumer,71.13,21.64,6,0.12,Second Class
+2022-07-23,Central,Illinois,Furniture,Home Office,566.77,193.03,8,0.22,Same Day
+2022-04-15,Central,Illinois,Furniture,Consumer,585.47,141.65,1,0.25,First Class
+2022-12-25,West,Texas,Office Supplies,Home Office,482.81,80.06,3,0.28,Same Day
+2023-06-19,West,New York,Furniture,Home Office,161.26,40.6,3,0.28,Second Class
+2022-06-24,South,Illinois,Furniture,Home Office,974.58,80.0,3,0.04,First Class
+2023-07-29,East,California,Furniture,Home Office,793.84,277.11,7,0.26,Standard Class
+2022-09-11,East,Georgia,Office Supplies,Corporate,609.39,73.52,2,0.07,Same Day
+2023-05-31,Central,Ohio,Technology,Consumer,95.12,16.63,10,0.25,Same Day
+2022-03-18,West,Washington,Technology,Corporate,71.74,22.64,4,0.21,Same Day
+2023-09-29,South,Illinois,Office Supplies,Corporate,404.19,104.18,2,0.0,Second Class
+2022-05-16,South,Florida,Technology,Corporate,379.17,78.81,2,0.26,Standard Class
+2023-02-26,Central,Georgia,Technology,Home Office,387.7,115.9,5,0.04,First Class
+2022-05-03,East,New York,Technology,Consumer,279.86,78.26,7,0.1,Second Class
+2022-11-17,Central,Georgia,Technology,Home Office,559.59,66.63,6,0.16,Standard Class
+2022-01-01,Central,Georgia,Office Supplies,Corporate,441.17,145.86,4,0.23,Standard Class
+2023-02-06,East,California,Furniture,Corporate,634.34,95.74,1,0.23,Same Day
+2023-10-31,East,Washington,Office Supplies,Corporate,765.69,232.55,10,0.21,Standard Class
+2023-06-16,East,Florida,Furniture,Home Office,200.14,57.62,7,0.2,Same Day
+2022-10-12,West,Ohio,Office Supplies,Corporate,968.46,268.1,9,0.29,Standard Class
+2023-05-21,South,California,Office Supplies,Consumer,466.89,31.31,8,0.21,Standard Class
+2022-06-15,South,Ohio,Furniture,Corporate,574.5,185.47,6,0.14,Standard Class
+2022-10-17,Central,Washington,Technology,Home Office,720.67,109.37,8,0.04,Standard Class
+2022-06-25,West,California,Furniture,Home Office,198.42,30.07,7,0.27,Standard Class
+2023-03-28,Central,New York,Furniture,Corporate,496.36,55.51,3,0.07,Same Day
+2022-06-20,South,Georgia,Technology,Consumer,884.72,191.28,5,0.22,First Class
+2022-02-26,West,Florida,Office Supplies,Home Office,858.11,92.9,3,0.06,First Class
+2022-07-09,West,Florida,Furniture,Consumer,961.97,335.77,3,0.13,First Class
+2023-12-18,South,Georgia,Furniture,Consumer,183.53,47.81,5,0.12,First Class
+2022-01-03,West,New York,Furniture,Consumer,660.44,106.64,4,0.14,Second Class
+2023-05-01,West,California,Technology,Home Office,61.97,12.01,5,0.01,Standard Class
+2022-11-17,West,Illinois,Technology,Home Office,426.99,86.8,7,0.2,First Class
+2022-04-27,South,Georgia,Technology,Consumer,899.26,75.53,7,0.15,Same Day
+2022-01-06,South,Illinois,Technology,Corporate,176.26,26.08,7,0.07,Same Day
+2023-02-26,Central,Illinois,Technology,Corporate,545.76,54.44,2,0.2,Second Class
+2022-12-06,South,New York,Office Supplies,Home Office,541.97,128.94,3,0.22,First Class
+2023-04-14,Central,Washington,Technology,Home Office,88.79,5.68,10,0.05,Second Class
+2023-07-22,Central,Florida,Office Supplies,Consumer,592.27,119.1,2,0.05,First Class
+2022-09-09,West,New York,Technology,Consumer,169.68,32.84,10,0.16,Second Class
+2022-07-06,East,Ohio,Office Supplies,Home Office,483.85,31.33,4,0.13,Second Class
+2023-02-07,South,Florida,Technology,Consumer,441.0,34.6,4,0.23,Same Day
+2023-11-14,South,Ohio,Furniture,Consumer,664.73,94.68,9,0.03,Second Class
+2022-12-20,East,New York,Office Supplies,Corporate,834.29,77.62,8,0.06,Standard Class
+2023-08-07,Central,California,Furniture,Consumer,624.83,178.0,1,0.15,Standard Class
+2023-09-15,Central,California,Office Supplies,Consumer,711.28,192.39,9,0.09,Standard Class
+2023-04-23,South,Georgia,Office Supplies,Home Office,645.6,195.94,4,0.1,Standard Class
+2022-10-04,Central,Ohio,Furniture,Corporate,366.62,44.05,9,0.19,Same Day
+2022-01-07,South,Florida,Furniture,Corporate,159.22,15.33,4,0.12,First Class
+2022-02-25,West,California,Furniture,Consumer,62.35,7.87,10,0.2,Standard Class
+2022-12-24,West,Florida,Office Supplies,Consumer,68.82,8.53,1,0.16,Standard Class
+2022-08-09,East,Illinois,Office Supplies,Consumer,755.12,146.42,3,0.13,Second Class
+2022-02-23,Central,California,Office Supplies,Home Office,193.41,65.37,6,0.21,Same Day
+2023-11-22,West,New York,Furniture,Corporate,729.45,62.13,8,0.06,Same Day
+2022-09-22,Central,Illinois,Technology,Corporate,338.25,51.3,2,0.23,Same Day
+2023-05-17,West,Florida,Furniture,Home Office,639.36,175.88,10,0.01,First Class
+2022-09-01,West,Ohio,Furniture,Home Office,327.52,47.6,8,0.25,Same Day
+2022-02-03,East,Illinois,Technology,Consumer,489.8,55.65,3,0.16,First Class
+2022-01-24,East,California,Technology,Home Office,535.87,160.9,3,0.21,Same Day
+2023-10-31,South,Ohio,Office Supplies,Consumer,317.78,70.76,1,0.16,Same Day
+2023-04-27,East,Georgia,Furniture,Consumer,640.81,74.57,9,0.09,Second Class
+2022-03-29,West,California,Technology,Home Office,170.63,37.75,10,0.0,Standard Class
+2023-03-22,South,Texas,Office Supplies,Consumer,704.34,144.95,3,0.07,Same Day
+2022-10-14,South,Illinois,Office Supplies,Consumer,940.71,192.05,9,0.21,Second Class
+2022-08-27,West,Washington,Office Supplies,Corporate,137.61,29.4,6,0.2,Second Class
+2023-12-10,West,Texas,Office Supplies,Consumer,282.91,91.93,8,0.25,Standard Class
+2023-09-25,West,Georgia,Technology,Consumer,587.67,130.3,2,0.29,Second Class
+2022-02-02,West,Illinois,Furniture,Consumer,273.65,71.42,8,0.24,Second Class
+2023-11-09,South,Illinois,Furniture,Consumer,145.6,23.02,7,0.27,Second Class
+2023-10-02,South,Georgia,Technology,Home Office,221.03,64.78,6,0.09,First Class
+2022-10-09,South,Georgia,Office Supplies,Corporate,438.95,133.55,1,0.18,Second Class
+2023-04-11,Central,California,Office Supplies,Corporate,669.76,81.01,10,0.28,First Class
+2023-04-08,West,Ohio,Furniture,Consumer,747.7,246.96,10,0.3,First Class
+2023-01-14,West,Ohio,Furniture,Corporate,872.55,292.95,5,0.01,First Class
+2022-01-23,Central,New York,Furniture,Home Office,634.96,131.12,5,0.05,Second Class
+2022-02-17,West,Washington,Technology,Home Office,310.06,86.89,8,0.04,Second Class
+2023-04-02,Central,Illinois,Technology,Corporate,243.52,30.43,2,0.11,Same Day
+2023-01-23,South,Georgia,Office Supplies,Home Office,958.81,129.79,8,0.08,Second Class
+2022-09-01,South,California,Furniture,Home Office,878.93,181.76,7,0.03,Standard Class
+2023-06-26,Central,Washington,Office Supplies,Home Office,135.95,22.53,10,0.28,First Class
+2022-06-21,West,California,Technology,Consumer,684.65,130.23,6,0.18,Same Day
+2022-10-14,East,Illinois,Furniture,Home Office,412.64,138.75,9,0.03,Second Class
+2022-05-22,Central,Florida,Office Supplies,Home Office,750.89,235.88,4,0.25,Standard Class
+2022-03-21,South,Illinois,Office Supplies,Home Office,548.24,66.03,1,0.2,Standard Class
+2022-03-25,South,Florida,Office Supplies,Home Office,463.88,50.84,1,0.04,Same Day
+2022-10-16,South,Ohio,Office Supplies,Home Office,707.15,157.16,8,0.19,Second Class
+2023-12-02,South,Ohio,Technology,Corporate,608.69,94.17,8,0.13,First Class
+2023-05-25,Central,Washington,Office Supplies,Home Office,527.87,26.89,6,0.19,Second Class
+2023-03-13,South,Illinois,Technology,Corporate,135.05,41.23,7,0.02,Same Day
+2022-05-25,South,Washington,Office Supplies,Home Office,322.51,98.69,10,0.23,First Class
+2023-05-18,East,Illinois,Furniture,Consumer,501.15,157.83,7,0.13,Second Class
+2023-01-28,West,Washington,Technology,Home Office,292.89,16.27,4,0.06,Same Day
+2022-04-17,East,Ohio,Technology,Corporate,429.24,84.94,10,0.22,Second Class
+2022-09-12,West,Ohio,Technology,Corporate,753.67,191.2,6,0.21,Second Class
+2022-01-22,South,New York,Furniture,Home Office,685.14,167.33,7,0.22,First Class
+2023-02-19,West,California,Office Supplies,Consumer,891.42,204.83,9,0.13,Second Class
+2022-05-28,West,Texas,Technology,Consumer,481.11,62.22,9,0.2,Second Class
+2022-01-12,South,New York,Furniture,Corporate,327.3,55.5,10,0.24,First Class
+2022-04-12,South,New York,Office Supplies,Home Office,297.85,99.87,8,0.18,Same Day
+2022-10-21,Central,Texas,Office Supplies,Corporate,627.28,142.66,6,0.02,Same Day
+2022-10-16,East,California,Technology,Corporate,950.68,115.59,10,0.22,Second Class
+2023-10-13,East,Washington,Office Supplies,Corporate,466.27,29.84,3,0.15,First Class
+2023-01-03,West,Ohio,Office Supplies,Corporate,636.51,209.33,2,0.06,Same Day
+2022-02-15,East,New York,Technology,Home Office,312.06,21.66,9,0.1,Second Class
+2023-01-16,East,Ohio,Furniture,Consumer,899.79,193.06,7,0.25,First Class
+2022-06-12,East,Washington,Furniture,Corporate,237.39,25.11,8,0.06,Standard Class
+2023-09-17,South,Texas,Technology,Corporate,875.91,239.02,4,0.08,Second Class
+2023-07-20,Central,Texas,Office Supplies,Consumer,682.11,165.62,8,0.23,Second Class
+2022-03-16,West,Florida,Furniture,Corporate,160.63,18.08,7,0.18,Second Class
+2023-08-16,East,California,Technology,Corporate,994.4,130.47,6,0.04,Second Class
+2022-02-09,West,Florida,Office Supplies,Corporate,717.46,156.24,10,0.17,Second Class
+2023-07-03,East,Florida,Technology,Home Office,565.75,116.33,4,0.13,Same Day
+2022-11-18,Central,New York,Furniture,Consumer,616.17,78.08,10,0.14,Same Day
+2023-08-13,West,Illinois,Technology,Consumer,635.69,95.21,5,0.08,Second Class
+2022-09-23,South,Illinois,Office Supplies,Consumer,887.98,281.1,5,0.18,Second Class
+2023-12-30,South,Illinois,Office Supplies,Consumer,526.82,81.2,7,0.04,Second Class
+2022-06-29,Central,New York,Office Supplies,Consumer,227.32,46.77,3,0.23,Second Class
+2023-11-17,Central,Georgia,Technology,Home Office,154.2,12.8,1,0.23,Second Class
+2023-05-28,Central,Illinois,Office Supplies,Corporate,308.86,103.77,6,0.16,Standard Class
+2023-06-21,West,Washington,Office Supplies,Home Office,991.81,55.15,6,0.01,Same Day
+2023-05-15,South,Texas,Technology,Home Office,378.99,93.86,6,0.18,Second Class
+2022-02-02,East,Washington,Furniture,Corporate,894.14,155.6,8,0.1,Same Day
+2022-08-19,West,Georgia,Office Supplies,Home Office,496.08,154.08,4,0.29,First Class
+2023-02-21,East,Ohio,Furniture,Home Office,110.88,33.49,5,0.08,First Class
+2022-01-31,East,Florida,Technology,Corporate,993.91,171.38,6,0.25,First Class
+2022-10-07,South,Florida,Technology,Corporate,659.78,51.43,9,0.02,First Class
+2022-01-19,Central,Ohio,Technology,Home Office,751.35,111.12,2,0.18,Same Day
+2023-11-11,East,California,Office Supplies,Corporate,239.94,35.77,2,0.26,First Class
+2023-10-10,Central,Washington,Technology,Consumer,122.22,36.86,10,0.03,Second Class
+2022-07-12,East,Florida,Furniture,Corporate,244.26,56.97,1,0.21,Same Day
+2023-06-23,East,Texas,Furniture,Corporate,93.05,4.82,9,0.28,Second Class
+2022-03-08,South,Washington,Furniture,Corporate,739.06,88.09,9,0.08,Same Day
+2023-12-10,South,Washington,Furniture,Consumer,435.43,120.01,6,0.28,Standard Class
+2023-09-13,West,Florida,Technology,Consumer,521.39,57.79,4,0.29,First Class
+2022-09-19,Central,Illinois,Furniture,Home Office,903.41,229.73,5,0.14,Same Day
+2022-04-16,East,Washington,Technology,Consumer,994.75,181.58,7,0.02,Second Class
+2022-11-16,South,Texas,Furniture,Corporate,987.36,70.11,4,0.1,Second Class
+2023-02-08,East,Georgia,Technology,Consumer,213.33,39.77,3,0.17,Second Class
+2023-12-21,East,Florida,Office Supplies,Corporate,414.18,52.91,3,0.06,Standard Class
+2023-04-09,East,Illinois,Office Supplies,Home Office,318.92,31.76,7,0.26,Same Day
+2022-03-05,South,Texas,Furniture,Consumer,536.55,52.75,1,0.27,First Class
+2022-09-01,East,New York,Furniture,Home Office,215.17,62.63,8,0.17,Same Day
+2023-05-15,South,Ohio,Technology,Corporate,815.51,150.23,7,0.02,Second Class
+2022-04-22,Central,Illinois,Furniture,Corporate,212.52,50.97,2,0.19,Standard Class
+2022-04-23,West,California,Office Supplies,Consumer,214.78,15.76,10,0.3,Standard Class
+2022-06-24,South,New York,Furniture,Home Office,804.23,274.86,3,0.01,Standard Class
+2023-05-11,West,California,Furniture,Consumer,262.28,34.1,9,0.25,First Class
+2022-04-28,East,Georgia,Technology,Corporate,731.18,205.2,2,0.07,Standard Class
+2022-12-04,West,Washington,Office Supplies,Consumer,665.47,223.67,8,0.16,First Class
+2023-10-19,Central,Georgia,Office Supplies,Consumer,822.21,164.7,9,0.12,Second Class
